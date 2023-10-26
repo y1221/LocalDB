@@ -1,0 +1,12 @@
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\bin\Debug\TestDB.mdf
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\bin\Debug\TestDB_log.ldf
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\bin\Debug\LocalDBTest.exe.config
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\bin\Debug\LocalDBTest.exe
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\bin\Debug\LocalDBTest.pdb
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.csproj.AssemblyReference.cache
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.Form1.resources
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.Properties.Resources.resources
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.csproj.GenerateResource.cache
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.csproj.CoreCompileInputs.cache
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.exe
+C:\Users\yuto\Documents\学習関連\C#\DB接続\LocalDBTest\LocalDBTest\obj\Debug\LocalDBTest.pdb
